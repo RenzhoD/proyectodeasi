@@ -1,0 +1,3 @@
+# Ignora la carpeta .idea y todas las carpetas que se le agregeedddn
+.idea
+target/
